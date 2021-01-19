@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-site/static/css/main.3c2b2fef.chunk.css",
+    "main.js": "/react-site/static/js/main.4f918037.chunk.js",
+    "main.js.map": "/react-site/static/js/main.4f918037.chunk.js.map",
+    "runtime-main.js": "/react-site/static/js/runtime-main.ac129610.js",
+    "runtime-main.js.map": "/react-site/static/js/runtime-main.ac129610.js.map",
+    "static/js/2.ff99792c.chunk.js": "/react-site/static/js/2.ff99792c.chunk.js",
+    "static/js/2.ff99792c.chunk.js.map": "/react-site/static/js/2.ff99792c.chunk.js.map",
+    "index.html": "/react-site/index.html",
+    "static/css/main.3c2b2fef.chunk.css.map": "/react-site/static/css/main.3c2b2fef.chunk.css.map",
+    "static/js/2.ff99792c.chunk.js.LICENSE.txt": "/react-site/static/js/2.ff99792c.chunk.js.LICENSE.txt",
+    "static/media/github.25648761.png": "/react-site/static/media/github.25648761.png",
+    "static/media/library.d8b2178c.jpg": "/react-site/static/media/library.d8b2178c.jpg",
+    "static/media/yahtzee_image.0266572f.jpg": "/react-site/static/media/yahtzee_image.0266572f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac129610.js",
+    "static/js/2.ff99792c.chunk.js",
+    "static/css/main.3c2b2fef.chunk.css",
+    "static/js/main.4f918037.chunk.js"
+  ]
+}
