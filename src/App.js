@@ -4,6 +4,7 @@ import githubicon from '../src/github.png';
 import linkedinicon from '../src/linkedinicon.png'
 import bookmanager from '../src/library.jpg'
 import yahtzee from '../src/yahtzee_image.jpg'
+import helpfulbot from '../src/Frame_2.png'
 
 class App extends React.Component {
   state = {
@@ -38,7 +39,11 @@ class App extends React.Component {
           url: "https://github.com/harryseo1992/Yahtzee"
         },
         {
-
+          src: helpfulbot,
+          alt: "Helpful Bot",
+          name1: "Helpful",
+          name2: "Bot",
+          url: "https://github.com/harryseo1992/HackNorthEastUselessHack"
         }
       ]
       
