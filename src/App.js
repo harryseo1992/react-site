@@ -67,6 +67,7 @@ class App extends React.Component {
         ) : (
           // After loading is "finished", the following will be put on root div
           <div className="content">
+            <nav>Home About Projects Contacts</nav>
             <div className="Iam">
               <p>I am</p>
               <b>
